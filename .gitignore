@@ -1,0 +1,9 @@
+# Generated runs and maps
+netpath_history/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
