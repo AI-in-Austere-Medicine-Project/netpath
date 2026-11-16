@@ -1,5 +1,9 @@
 # netpath
 
+Network path visualizer: traces the route to a host, enriches each hop with geolocation and ASN/ISP data, and maps the physical path traffic takes.
+
+[Project site](https://ai-in-austere-medicine-project.github.io/pi-cloud-cdss/web/) · [Portal](https://cdss.arcanekg.com) · [Substack](https://aiamp.substack.com)
+
 🌍 A network path visualizer. `netpath` traces the route to a host, enriches
 every hop with geolocation and ASN/ISP data, and plots the real physical path
 your traffic takes on an interactive world map.
